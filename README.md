@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Henok 
+## 👋 Hi there! I'm Henok 
 
 ## 🚀 About Me
 I’m a passionate **React Developer** and a software engineering student dedicated to creating dynamic and interactive web applications. I love building projects that solve real-world problems and enhance user experience.
