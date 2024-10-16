@@ -13,5 +13,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=henok-enyew&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=henok-enyew&icon=2&color=0)](https://visitcount.itsvg.in)
 [![](https://visitcount.itsvg.in/api?id=henok-enyew&label=Profile%20Views&color=9&icon=5&pretty=false)](https://visitcount.itsvg.in)
