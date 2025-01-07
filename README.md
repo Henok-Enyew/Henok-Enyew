@@ -1,7 +1,6 @@
 # 💫 About Me:
 🔭 I’m currently working on React, building attractive and responsive websites.<br>👯 I’m looking to collaborate on open-source projects that involve frontend development, especially those using React, Tailwind CSS, or Vue.js.<br>🤝 I’m looking for help with integrating backends into my React projects, especially using Node.js and GraphQL.<br>🌱 I’m currently learning Node.js to enhance my fullstack development skills and work on end-to-end projects.<br>💬 Ask me about frontend development, React, Tailwind CSS, and creating responsive, visually appealing web apps.<br>⚡ Fun fact: I can make apps look amazing, and still break down the science behind it in simple words!<br>
 
-
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/Enoch90s) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/henok-enyew) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/Enoch90s) 
 
