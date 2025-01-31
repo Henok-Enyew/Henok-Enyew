@@ -1,3 +1,8 @@
+<h1 align="center">Hello there👋, I'm Henok</h1>
+<h3 align="center">Software Engineer and Full Stack Developer</h3>
+
+<p align="center"> <img width = "80%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="abkodes" /> </p>
+
 # 💫 About Me:
 🔭 Hello, I am Henok Enyew, A2SVian-Backed by Google, web developer on React, building attractive and responsive websites.<br>👯 I’m looking to collaborate on open-source projects that involve frontend development, especially those using React, Tailwind CSS, or Vue.js.<br>🤝 I’m looking for help with integrating backends into my React projects, especially using Node.js and GraphQL.<br>🌱 I’m currently learning Node.js to enhance my fullstack development skills and work on end-to-end projects.<br>💬 Ask me about frontend development, React, Tailwind CSS, and creating responsive, visually appealing web apps.<br>⚡ Fun fact: I can make apps look amazing, and still break down the science behind it in simple words!<br><br>
 
@@ -12,8 +17,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=henok-enyew&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=henok-enyew&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=merko)
+
+[![Henok's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=henok-enyew&bg_color=0d1117&color=2f81f7&line=2f81f7&point=53534f&area=true&hide_border=true)](https://github.com/henok-enyew)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=henok-enyew&icon=6&color=0)](https://visitcount.itsvg.in)
