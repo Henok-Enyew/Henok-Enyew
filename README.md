@@ -6,7 +6,7 @@
 🔭 Hello, I am Henok Enyew, A2SVian-Backed by Google,Full stack web developer. Proficient in MERN stack and also with Django<br>
 👯 I’m currently working on ESSS Website (MUI) on Frontend at ESSS, HRM system on Backend (Django).<br>
 🌱 I’m currently learning Django to advance my skill. <br>
-👉 Reach me out henokenyew86@gmail.com
+👉 Reach me out henokenyew86@gmail.com, https://henokenyew.me
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/enoch90s) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/henok-enyew) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/enoch90s) 
