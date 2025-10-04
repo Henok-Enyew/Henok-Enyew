@@ -5,6 +5,7 @@
 <!-- # 💫 About Me: -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=About+me:&fontSize=30&fontAlignY=35" alt="Header banner"/>
+</div>
   <br/>
 🔭 Hello, I am Henok Enyew, A2SVian-Backed by Google,Full stack web developer. Proficient in MERN stack and also with Django<br>
 👯 I’m currently working on ESSS Website (MUI) on Frontend at ESSS, HRM system on Backend (Django).<br>
