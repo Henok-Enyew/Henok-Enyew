@@ -2,7 +2,10 @@
 ===================================================================================================================================
 <p align="center"> <img width = "80%" src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" alt="abkodes" /> </p>
 
-# 💫 About Me:
+<!-- # 💫 About Me: -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=About+me:&fontSize=30&fontAlignY=35" alt="Header banner"/>
+  <br/>
 🔭 Hello, I am Henok Enyew, A2SVian-Backed by Google,Full stack web developer. Proficient in MERN stack and also with Django<br>
 👯 I’m currently working on ESSS Website (MUI) on Frontend at ESSS, HRM system on Backend (Django).<br>
 🌱 I’m currently learning Django to advance my skill. <br>
