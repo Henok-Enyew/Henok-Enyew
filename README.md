@@ -22,6 +22,11 @@
 
 [![Henok's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=henok-enyew&bg_color=0d1117&color=2f81f7&line=2f81f7&point=53534f&area=true&hide_border=true)](https://github.com/henok-enyew)
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Commit%20Score-A%2B-brightgreen?style=for-the-badge&logo=github" alt="Commit Score Badge"/>
+</p>
+
+
 <a href="http://www.github.com/henok-enyew"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=henok-enyew&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 ![](https://github-readme-streak-stats.herokuapp.com/?user=henok-enyew&theme=dark&hide_border=false)<br/>
