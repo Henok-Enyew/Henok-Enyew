@@ -6,11 +6,12 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=About+me:&fontSize=30&fontAlignY=35" alt="Header banner"/>
 </div>
-  <br/>
-🔭 Hello, I am Henok Enyew, A2SVian-Backed by Google,Full stack web developer. Proficient in MERN stack and also with Django<br>
-👯 I’m currently working on ESSS Website (MUI) on Frontend at ESSS, HRM system on Backend (Django).<br>
-🌱 I’m currently learning Django to advance my skill. <br>
-👉 Reach me out henokenyew86@gmail.com, https://henokenyew.me
+ <br/>
+👋 Hello, I am Henok Enyew, a Software Engineer and Full-Stack Web Developer experienced with React, Node.js, and Django.<br>
+🚀 I’m currently working on production web applications, including Tankwa Tours, a tourism booking platform, and building scalable full-stack systems.<br>
+🤖 I’m interested in AI-powered applications, backend architecture, and building useful products from idea to production.<br>
+🌱 I’m continuously improving my skills in system design, backend engineering, and Data Structures & Algorithms.<br>
+👉 Reach me at henokenyew86@gmail.com or visit my portfolio: https://henokenyew.me
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/enoch90s) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/henok-enyew) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/enoch90s) 
