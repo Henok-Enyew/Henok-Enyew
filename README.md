@@ -7,7 +7,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=About+me:&fontSize=30&fontAlignY=35" alt="Header banner"/>
 </div>
 <br/>
-![committers.top badge](https://user-badge.committers.top/ethiopia/henok-enyew.svg)
+ <a href="https://user-badge.committers.top/ethiopia/ephrem-ketachew">
+    <img src="https://user-badge.committers.top/ethiopia/ephrem-ketachew.svg" alt="Committers Top Ethiopia" />
+  </a>
+
  <br/>
 👋 Hello, I am Henok Enyew, a Software Engineer and Full-Stack Web Developer experienced with React, Node.js, and Django.<br>
 🚀 I’m currently working on production web applications, including Tankwa Tours, a tourism booking platform, and building scalable full-stack systems.<br>
