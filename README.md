@@ -7,9 +7,9 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=About+me:&fontSize=30&fontAlignY=35" alt="Header banner"/>
 </div>
 <br/>
- <a href="https://user-badge.committers.top/ethiopia/henok-enyew">
-    <img src="https://user-badge.committers.top/ethiopia/henok-enyew.svg" alt="Committers Top Ethiopia" />
-  </a>
+<a href="https://user-badge.committers.top/ethiopia/Henok-Enyew">
+    <img src="https://user-badge.committers.top/ethiopia/Henok-Enyew.svg" alt="Committers Top Ethiopia" />
+
 
  <br/>
 👋 Hello, I am Henok Enyew, a Software Engineer and Full-Stack Web Developer experienced with React, Node.js, and Django.<br>
