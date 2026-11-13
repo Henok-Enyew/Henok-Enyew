@@ -7,8 +7,8 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=About+me:&fontSize=30&fontAlignY=35" alt="Header banner"/>
 </div>
 <br/>
-<a href="https://user-badge.committers.top/ethiopia/Henok-Enyew">
-    <img src="https://user-badge.committers.top/ethiopia/Henok-Enyew.svg" alt="Committers Top Ethiopia" />
+<a href="https://user-badge.committers.top/ethiopia-private/Henok-Enyew">
+    <img src="https://user-badge.committers.top/ethiopia/Henok-Enyew.svg" alt="Committers Top Ethiopia" /> </a>
 
 
  <br/>
